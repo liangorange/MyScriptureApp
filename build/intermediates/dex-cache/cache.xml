@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JohnnyLiang/AndroidStudioProjects/MyScriptureApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/JohnnyLiang/AndroidStudioProjects/MyScriptureApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-1ea53e1a528543b336f52621ab74910c21496f7f.jar" />
+    </item>
+    <item
+        jar="/Users/JohnnyLiang/Desktop/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/JohnnyLiang/AndroidStudioProjects/MyScriptureApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-5676dad92ccb910d8d186c64a29d7a92580e2ce3.jar" />
+    </item>
+    <item
+        jar="/Users/JohnnyLiang/AndroidStudioProjects/MyScriptureApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/JohnnyLiang/AndroidStudioProjects/MyScriptureApp/app/build/intermediates/pre-dexed/debug/classes-0900b54e4737f96dd7af9f50a68873afa84bd4dd.jar" />
+    </item>
+    <item
+        jar="/Users/JohnnyLiang/AndroidStudioProjects/MyScriptureApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/JohnnyLiang/AndroidStudioProjects/MyScriptureApp/app/build/intermediates/pre-dexed/debug/classes-55e922280dbb1c962a04920faa4acf196a15c3a5.jar" />
+    </item>
+
+</items>
